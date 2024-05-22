@@ -7,7 +7,7 @@ LONG_DESCRIPTION = 'MachineFailurePredict'
 
 # Setting up
 setup(
-        name="YHTest", 
+        name="MachineFailurePredict", 
         version=VERSION,
         author="YHTest",
         author_email="Yihuain163@163.com",
